@@ -1,6 +1,6 @@
 import os
 import cv2
-from tqdm import tqdm
+from tqdm import tqdm 
 
 # Path to your dataset
 dataset_path = r"C:\Users\rohit\OneDrive\Desktop\dog_emotions"
